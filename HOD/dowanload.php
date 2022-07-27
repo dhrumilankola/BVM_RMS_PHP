@@ -1,0 +1,1 @@
+echo "<a class='btn btn-info btn-sm' href='../Faculty/".$row_did['department']."/".$row_user['uname']."/".date('Y')."/Books/Documents/".$rows['docc']."' download='".$rows['docc']."'><i class='fa fa-download'></i></a>";

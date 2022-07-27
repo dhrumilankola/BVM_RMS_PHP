@@ -1,0 +1,19 @@
+<footer class="main-footer">
+    <strong>Design & Developed By &copy; <!-- 2014-2019 --> <a href="#">Prof.Dharmesh Patel</a>.</strong>
+    BVM IT Department.
+    <!-- <div class="float-right d-none d-sm-inline-block">
+      <b>Version</b> 3.0.1
+    </div> -->
+  </footer>
+  $rows['a_y'].'-' .$rows['e_y']
+  
+   <p><span class="brand-text font-weight-light" style="font-size: 16px"><b><?php echo $rowdid['department']; ?></b></span>
+   
+   active
+   
+   rahul@gmail.com Faculty password 1234
+   ajpatel@gmail.com HOD password 12345
+   
+   Atul@gmail.com   Principal Password 1234
+   dgpatel206@gmail.com Admin Password 1234
+   
